@@ -1,16 +1,14 @@
-### Hi there 👋
+### Join my Discord Server ;D https://discord.gg/nitroxnet
 
-<!--
-**derdj2301/derdj2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mischmaschine&style=flat-square" alt="derdj2301" /> </p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=derdj2301&show_icons=true&count_private=true&theme=algolia&hide_border=true&bg_color=00000000">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=derdj2301&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&count_private=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=derdj2301&theme=algolia&hide_border=true&background=FFFFFF00&count_private=true">
+  <br>
+  <br>
+</p>
+
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=derdj2301&theme=react-dark" alt="derdj2301" /> </p>
